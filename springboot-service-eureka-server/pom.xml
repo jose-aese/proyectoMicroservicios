@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springboot.app.eureka</groupId>
-	<artifactId>springboot-service-items</artifactId>
+	<artifactId>springboot-service-eureka</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
 	<name>springboot-service-eureka-server</name>

@@ -11,7 +11,7 @@
 	<groupId>com.springboot.app.commons</groupId>
 	<artifactId>springboot-service-commons</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>springboot-service-commons</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
